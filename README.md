@@ -1,5 +1,5 @@
 # Leetcode
-Leetcode300+道！使用java实现leetcode300+道，题型包括数组、回溯算法、二分查找、位运算、深度优先搜索、设计、动态规划、贪心算法、堆、数字、栈、字符串、树、字典树、双指针、哈希表、链表、排序等。本项目中，文件的命名格式为：题号_题目名称_难度（难度=1,2,3）
+Leetcode 300+! Use java to implement leetcode, the problems include array, backtracking algorithm, binary search, Bit Manipulation, depth first search, design, dynamic programming, greedy algorithm, heap, math, stack, string, tree, trie, two pointers, hash table, linked list, sort, etc. In this project, the file naming format is: problem number _ title name _ difficulty (difficulty = 1, 2, 3)
 
 #### [Array](Leetcode/problems/Array)
 
