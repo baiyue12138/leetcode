@@ -100,12 +100,12 @@ Leetcode300+道！使用java实现leetcode300+道，题型包括数组、回溯�
 - [693_BinaryNumberwithAlternatingBits_1](Leetcode/problems/BitManipulation/693_BinaryNumberwithAlternatingBits_1.java)
 
 
-#### [DepthFirstSearch](Leetcode/problems/DepthFirstSearch)
+#### [DepthFirstSearch](Leetcode/problems/Depth-FirstSearch)
 
 #### Medium:
-- [207_CourseSchedule_2](Leetcode/problems/DepthFirstSearch/207_CourseSchedule_2.java)
-- [210_CourseScheduleII_2](Leetcode/problems/DepthFirstSearch/210_CourseScheduleII_2.java)
-- [430_FlattenaMultilevelDoublyLinkedList_2](Leetcode/problems/DepthFirstSearch/430_FlattenaMultilevelDoublyLinkedList_2.java)
+- [207_CourseSchedule_2](Leetcode/problems/Depth-FirstSearch/207_CourseSchedule_2.java)
+- [210_CourseScheduleII_2](Leetcode/problems/Depth-FirstSearch/210_CourseScheduleII_2.java)
+- [430_FlattenaMultilevelDoublyLinkedList_2](Leetcode/problems/Depth-FirstSearch/430_FlattenaMultilevelDoublyLinkedList_2.java)
 
 #### [Design](Leetcode/problems/Design)
 
